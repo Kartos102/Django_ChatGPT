@@ -26,7 +26,7 @@ function chat_ajax(){
 
     $.ajax({
         type: 'POST',
-        url: '/ajax/',
+        url: '/ajax',
         data: {
             'text': text
         },

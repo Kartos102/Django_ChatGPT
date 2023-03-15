@@ -22,7 +22,6 @@ def Ajax(request):
     if request.headers.get('X-Requested-With') == 'XMLHttpRequest':
 
         text = request.POST.get('text')
-        print(text)
 
         openai.api_key = env("OPENAI_KEY")
         res = openai.ChatCompletion.create(
