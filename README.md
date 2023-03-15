@@ -286,7 +286,7 @@ Run:
 <b>Congratulations! You have a Django web application capable of chatting with ChatGPT.</b>
 
 <b>Summary</b>
-
+We managed to create a Django project which connects to ChatGPT using openai API.
 <b>References</b>
 
 https://getbootstrap.com/
@@ -296,3 +296,5 @@ https://openai.com/
 https://jquery.com/download/
 
 https://www.djangoproject.com/
+
+https://medium.com/@ke6nkh/create-your-own-chat-gpt-with-python-in-less-than-10-minuets-123892528b77
