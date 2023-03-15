@@ -1,0 +1,4 @@
+django
+openai
+django-environ
+django-static-url
